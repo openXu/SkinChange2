@@ -5,7 +5,7 @@
 
 效果图如下：
 
-![](http://img.blog.csdn.net/20160411172844741)
+![](https://github.com/openXu/SkinChange2/blob/master/skinchange2.gif)
 
 我的博客
 [http://blog.csdn.net/xmxkf/article/details/51122694][id]
